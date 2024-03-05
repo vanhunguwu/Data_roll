@@ -1,14 +1,14 @@
 # Data_roll
 Data_roll is a project written in PYTHON aimed at expediting the data processing/data cleaning process by providing comprehensive information about datasets, including:
 
-+Basic overview regarding the number of rows/columns, providing basic metrics about each column such as count, std, min, max, the number of unique values, as well as a general view of these unique values.
-+Data type and Missing values providing information about the data types of each column and the number of missing values for each column.
-+Comparison of the quantity of values in each column to detect outliers or anomalies.
-+Identifying duplicates.
-+Distribution of values within each column.
-+Analysis of date/time data types.
-+Correlation analysis through heatmaps of numerical columns and categorical columns.
--Data_roll is still under ongoing development to handle a wider variety of datasets.
+  + Basic overview regarding the number of rows/columns, providing basic metrics about each column such as count, std, min, max, the number of unique values, as well as a general view of these unique values.
+  + Data type and Missing values providing information about the data types of each column and the number of missing values for each column.
+  + Comparison of the quantity of values in each column to detect outliers or anomalies.
+  + Identifying duplicates.
+  + Distribution of values within each column.
+  + Analysis of date/time data types.
+  + Correlation analysis through heatmaps of numerical columns and categorical columns.
+  -Data_roll is still under ongoing development to handle a wider variety of datasets.
 
 /
 Data_roll là một project sử dụng ngôn ngữ PYTHON với mục đích là đẩy nhanh quá trình data-processing/ data cleaning bằng cách cung cấp các thông tin về dataset bao gồm : 
